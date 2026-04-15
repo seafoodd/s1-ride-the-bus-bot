@@ -4,8 +4,9 @@ A simple python script that plays Ride the Bus in Schedule 1 for you.
 It scans the screen in real time and presses the correct buttons automatically.
 
 ## Usage
-1. Enter a Ride the Bus table in-game  
-2. Press `P` to unpause the bot  
+1. Enter a Ride the Bus table in-game (make sure you have enough cash for at least ~100 bets)
+2. Press `P` to unpause the bot
+3. Let it run (you can use `settimescale <float>` to speed up the game)
 
 ## Controls
 - `P` → Pause / Resume
